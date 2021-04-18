@@ -1,6 +1,5 @@
 ---
 title: Contact
-date: '2021-02-22'
 layout: contact
 ---
 
