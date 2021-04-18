@@ -2,7 +2,7 @@
 title: Claude Dufour MMF
 intro_image: images/illustrations/pointing.svg
 intro_image_absolute: true
-intro_image_hide_on_mobile: false
+intro_image_hide_on_mobile: true
 ---
 # Claude Dufour MMF
 
