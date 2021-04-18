@@ -1,5 +1,5 @@
 baseURL = "www.example.com"
-languageCode = "en-us"
+languageCode = "fr-ca"
 title = "Claude Dufour MMF"
 
 [params]
