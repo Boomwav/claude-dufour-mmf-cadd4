@@ -1,6 +1,6 @@
 ---
 title: Claude Dufour MMF
-intro_image: images/illustrations/pointing.svg
+intro_image: images/PXL_20210328_141830635.MP.jpg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
