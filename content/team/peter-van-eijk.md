@@ -4,7 +4,7 @@ date: '2018-11-19T10:47:58+10:00'
 draft: false
 image: images/claude-dufour.png
 jobtitle: Méchanicien de machinerie fixe
-linkedinurl: 'https://www.linkedin.com/'
+linkedinurl: 'https://www.linkedin.com/in/claude-dufour-20360662/'
 promoted: true
 weight: 1
 ---
