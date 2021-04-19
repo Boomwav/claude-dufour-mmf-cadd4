@@ -1,10 +1,9 @@
 ---
-title: 'Team'
-intro_image: ""
+title: Team
+intro_image: ''
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
+# Rencontrer l'équipe
 
-# Meet The Team
-
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Une équipe familiale qui est là pour vous.
