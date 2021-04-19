@@ -1,10 +1,9 @@
 ---
-title: 'Services'
-intro_image: "images/illustrations/reading.svg"
+title: Services
+intro_image: images/illustrations/reading.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
+# Des services d'entretient et de prévention
 
-# Services that grow with your business
-
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+N'attendez-pas d'avoir des problèmes avant de contacter. Un entretient annuel vous fera sauver en électricité et allongera la durée de vie de vos appareils.
