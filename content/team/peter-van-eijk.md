@@ -1,6 +1,5 @@
 ---
 title: Claude Dufour
-date: '2018-12-18'
 draft: false
 image: images/claude-dufour.png
 jobtitle: Méchanicien de machinerie fixe
