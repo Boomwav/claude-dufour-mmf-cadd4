@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contactez-nous
 layout: contact
 date: '2021-04-18'
 ---
