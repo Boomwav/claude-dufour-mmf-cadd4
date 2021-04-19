@@ -1,6 +1,6 @@
 ---
 title: L'équipe
-intro_image: ''
+intro_image: images/MVIMG_20200815_151054.jpg
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
