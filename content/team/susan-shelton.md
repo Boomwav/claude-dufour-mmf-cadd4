@@ -5,4 +5,5 @@ image: images/thlaYfZ4_400x400.jpg
 jobtitle: Webmestre
 weight: '5'
 linkedinurl: 'https://www.linkedin.com/in/simdufour/'
+Twitterhandle: 'https://twitter.com/simdufour'
 ---
