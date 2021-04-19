@@ -7,6 +7,7 @@ linkedinurl: 'https://www.linkedin.com/in/claude-dufour-20360662/'
 promoted: true
 weight: 1
 date: '2021-04-18'
+featured: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
