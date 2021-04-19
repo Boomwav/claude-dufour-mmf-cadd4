@@ -6,4 +6,5 @@ jobtitle: Webmestre
 weight: '5'
 linkedinurl: 'https://www.linkedin.com/in/simdufour/'
 Twitterhandle: 'https://twitter.com/simdufour'
+promoted: true
 ---
