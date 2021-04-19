@@ -13,7 +13,7 @@ google_tag_manager_id = ""
   [params.logo]
   mobile = "images/logo/logo-mobile.svg"
   mobile_height = "36px"
-  desktop = "images/cd-mmf-logo.png"
+  desktop = "images/cd-mmf-logo-white.png"
   desktop_height = "36px"
   alt = "Claude Dufour MMF"
 
